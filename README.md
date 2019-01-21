@@ -19,4 +19,4 @@ This repository also contains examples of using Keras.
 
 # Using util.py file
 
-If you want to use the codes you should download the MNIST data set and but it in a folder with the name of large_files 
+If you want to use the codes you should download the MNIST dataset and but it in a folder with the name of large_files 
